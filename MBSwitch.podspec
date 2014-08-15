@@ -1,3 +1,4 @@
+{
   "name": "MBSwitch",
   "version": "0.0.1",
   "summary": "iOS7 style UISwitch working with iOS < 7.",
@@ -21,3 +22,4 @@
   "header_dir": "MBSwitch",
   "frameworks": "QuartzCore",
   "requires_arc": false
+}
